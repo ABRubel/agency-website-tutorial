@@ -13,8 +13,8 @@ const AboutPage = () => {
       <div className={styles.textContainer}>
         {/* <h2 className={styles.subtitle}>About Agency</h2> */}
         <h1 className={styles.title}>
-          LEADERS IN COMMERCIAL & RESIDENTIAL PASSIVE FIRE PROTECTION,
-          COMPLIANCE & FIRE DOOR SERVICES
+          Empowering New Zealand with sustainable energy solutions from our
+          power office.
         </h1>
         <p className={styles.desc}>
           We specialise in installing and maintaining Passive Fire Protection
