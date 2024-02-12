@@ -18,10 +18,6 @@ const links = [
     title: "Contact",
     path: "/contact",
   },
-  {
-    title: "Services",
-    path: "/blog",
-  },
 ];
 
 const Links = ({ session }) => {
